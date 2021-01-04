@@ -29,19 +29,16 @@
         <span></span>
         <span></span>
       </div>
-    </div>
-
-    <div id="navbarExample" class="navbar-menu">
-      <div class="navbar-end">
-        <div class="field is-grouped">
-          <p class="control">
-            <%= link_to "New Tweet", new_tweet_path,  class: "button is-info is-inverted"%>
-          </p>
+      <div id="navbarExample" class="navbar-menu">
+        <div class="navbar-end">
+          <div class="field is-grouped">
+            <p class="control">
+              <%= link_to "New Tweet", new_tweet_path,  class: "button is-info is-inverted"%>
+            </p>
+          </div>
         </div>
       </div>
     </div>
-
     <%= yield %>
-    
   </body>
 </html>
