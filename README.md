@@ -2,7 +2,7 @@
 
 This website is made as part of the odin project curriculum
 
-＃Learning Experience
+# Learning Experience
 
 <li>Devise</li>
 <li>Simple Form</li>
