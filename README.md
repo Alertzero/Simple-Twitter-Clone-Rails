@@ -2,6 +2,13 @@
 
 This website is made as part of the odin project curriculum
 
+＃Learning Experience
+
+＜ul>
+<li>Devise</li>
+<li>Simple Form</li>
+</ul>
+
 # Live Demo
 
-There is something wrong, will update later.
+https://blooming-forest-69834.herokuapp.com/
